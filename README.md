@@ -237,4 +237,4 @@ This repository serves as the official landing page for younity. The software is
 **Get the most recent version of younity today!**
 
 ---
-**Last updated:** 2026-10-17 17:49:58 UTC
+**Last updated:** 2026-10-17 20:09:04 UTC
